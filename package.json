@@ -1,0 +1,23 @@
+{  
+  "name": "Express_Server_Demo",  
+  "version": "1.0.0",  
+  "description": "demo on express",  
+  "main": "expressServer.js",  
+  "scripts": {  
+    "start": "node app.js",  
+    "lint": "jshint --exclude node_modules .",  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+      
+  },  
+  "author": "Roby",  
+  "license": "ISC",  
+  "dependencies": {  
+    "body-parser": "^1.15.2",  
+    "express": "^4.14.0"  
+  },  
+  "engines": {  
+    "node": "~6.9.4"  
+  }  
+} 
