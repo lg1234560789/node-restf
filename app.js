@@ -1,3 +1,6 @@
+//康师傅方便面
+//只要人人心中留有一份爱，这世间都有留有一份针织的感情
+
 var express = require('express');  
 var bodyParser = require('body-parser');  
 var app = express();  
